@@ -1,0 +1,10 @@
+variable_name,value
+random_seed,420
+directory_path,C:/DAN/t_systems/trade_news
+folder_name_headlines,data/backup_headlines/
+folder_name_logger,data/logger/
+folder_name_merged_news_and_prices,data/merged_news_and_prices/
+folder_name_for_labelling,data/for_labelling/
+folder_name_for_labeled_news_iter1,data/labeled_news_iter1/
+set_app_key1,ccebd1ff788d4574818be93e35c4741925ac214e
+set_app_key2,a8be043d709946238759b0c5cb34c8f90d4e6f2c
