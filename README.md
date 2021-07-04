@@ -1,6 +1,7 @@
 # Trade news project summary
 
 Trade news is a diploma project. A short presentation is located in `presentation` folder.
+
 The project is about stock price prediction. We propose news features which represent news event types and are based on fine-tuned BERT classifier.
 
 These notebooks allows you to:
