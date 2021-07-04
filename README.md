@@ -13,6 +13,10 @@ As a result of our research, proposed news features improve model evaluation met
 For example, profitability:
 ![Mean profit](https://github.com/dany-kuznetsov/trade_news/blob/master/presentation/models_ptofit.jpg?raw=true)
 
+# Data 
+This directory is not complete. The data folder can be downloaded with this link:
+https://drive.google.com/drive/folders/1wWjm-IjKMdXdGrCFPnjAbSJ8nZLbtQK9?usp=sharing
+
 # Notebooks and scripts description
 The whole process can be described by the scheme:
 
