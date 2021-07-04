@@ -11,7 +11,7 @@ These notebooks allows you to:
 
 As a result of our research, proposed news features improve model evaluation metrics and profitability.
 For example, profitability:
-![Mean profit](https://github.com/dany-kuznetsov/trade_news/blob/master/exhibits_saved/mean_total_result.png?raw=true)
+![Mean profit](https://github.com/dany-kuznetsov/trade_news/blob/master/presentation/models_ptofit.jpg?raw=true)
 
 # Notebooks and scripts description
 The whole process can be described by the scheme:
