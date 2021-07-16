@@ -14,6 +14,17 @@ As a result of our research, proposed news features improve model evaluation met
 For example, profitability:
 ![Mean profit](https://github.com/dany-kuznetsov/trade_news/blob/master/presentation/models_ptofit.jpg?raw=true)
 
+# Research Methodology
+Overall research methodology can be described by this scheme:
+![Research Methodology](https://github.com/dany-kuznetsov/trade_news/blob/master/presentation/scheme_of_methodology_2.png?raw=true)
+
+- News texts were collected, preprocessed, partly manually labelled 
+- BERT was fine-tuned by our labelled sample and applied to classify all other texts
+- Stock prices were collected and used in feature generation process (prices and technical indicators)
+- News, prices and technical indicators features were merged for further model training
+- Trained 12 models, the half of them includes news features
+- Compared models in terms of MAE, MSE, AUC, precision and profitability
+
 # Data 
 This directory is not complete. The data folder can be downloaded with this link:
 https://drive.google.com/drive/folders/1wWjm-IjKMdXdGrCFPnjAbSJ8nZLbtQK9?usp=sharing
