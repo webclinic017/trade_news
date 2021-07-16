@@ -27,7 +27,9 @@ Overall research methodology can be described by this scheme:
 
 # Data 
 This directory is not complete. The data folder can be downloaded with this link:
-https://drive.google.com/drive/folders/1wWjm-IjKMdXdGrCFPnjAbSJ8nZLbtQK9?usp=sharing
+https://drive.google.com/drive/folders/1wWjm-IjKMdXdGrCFPnjAbSJ8nZLbtQK9
+
+Just ask for an access with your google account.
 
 # Notebooks and scripts description
 The whole process can be described by the scheme:
